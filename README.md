@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jchallenger 
+- 👀 I’m interested in a variety of web technologies, ranging from front end solutions to balancing automatically deployed workloads between backend services
+- 🌱 I’m currently learning more about blending hardware and software with NodeMCU
