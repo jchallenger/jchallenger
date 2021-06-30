@@ -13,3 +13,8 @@ sudo sh get-docker.sh
 # Oh My Bash installer
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/ohmybash/oh-my-bash/master/tools/install.sh)"
 sed -i 's/OSH_THEME=".*"/OSH_THEME="brainy"/g' ~/.bashrc
+
+# Git config
+git config --global user.email "challenger.justin@gmail.com"
+git config --global user.name "Justin Challenger"
+
